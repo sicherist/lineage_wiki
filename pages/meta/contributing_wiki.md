@@ -90,6 +90,7 @@ git push origin
 ```
 
 Preview your changes - you can see your fork of the wiki at `http://yourusername.github.io/lineage_wiki`.
+{% include note.html content="If this doesn't work (for example a 404 error-page appears), check if in the settings of your repository (https://github.com/<yourusername>/lineage_wiki/settings) under the heading "GitHub Pages" a source ("master branch") is selected." %}
 
 #### Fixing mistakes
 
